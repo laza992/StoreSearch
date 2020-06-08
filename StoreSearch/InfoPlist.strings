@@ -1,0 +1,9 @@
+//
+//  DetailViewController.swift
+//  StoreSearch
+//
+//  Created by Lazar Stojkovic on 6/5/20.
+//  Copyright © 2020 lazar. All rights reserved.
+//
+
+CFBundleDisplayName = "StoreSearch";
